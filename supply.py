@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+# @Author   : Sdite
+# @DateTime : 2017-07-26 17:56:37
+
 import pygame
 from random import *
 
