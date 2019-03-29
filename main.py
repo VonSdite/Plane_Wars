@@ -244,7 +244,7 @@ def main():
 
             elif event.type == DOUBLE_BULLTET_TIME:
                 is_double_bullet = False
-                pygame.time.set_time(DOUBLE_BULLTET_TIME, 0)
+                pygame.time.set_timer(DOUBLE_BULLTET_TIME, 0)
 
             elif event.type == INVINCIBLE_TIME:
                 me.invincible = False
